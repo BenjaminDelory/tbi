@@ -30,13 +30,13 @@ tbi(g.start,
 
 \item{Hg}{Hydrolysable fraction of green tea}
 
-\item{Hr}{Hydrolysable fraction of red tea}
+\item{Hr}{Hydrolysable fraction of rooibos tea}
 
 \item{Wbag}{Mass (g) of an empty tea bag (including bag, cord and label)}
 
 \item{FcorrGreen}{Correction factor for handling and drying green tea}
 
-\item{FcorrRed}{Correction factor for handling and drying red tea}
+\item{FcorrRed}{Correction factor for handling and drying rooibos tea}
 
 }
 

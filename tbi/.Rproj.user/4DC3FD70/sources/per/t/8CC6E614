@@ -1,0 +1,26 @@
+{
+    "id": "8CC6E614",
+    "path": "~/GitHub/tbi/tbi/man/tbi.Rd",
+    "project_path": "man/tbi.Rd",
+    "type": "r_doc",
+    "hash": "2285615184",
+    "contents": "",
+    "dirty": false,
+    "created": 1711915159774.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "38,65",
+        "scrollLine": "15"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1711915183,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1711915183320,
+    "read_only": false,
+    "read_only_alternatives": []
+}
