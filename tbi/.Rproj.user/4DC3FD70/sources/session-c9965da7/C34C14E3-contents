@@ -1,0 +1,10 @@
+Package: tbi
+Type: Package
+Title: Tea Bag Index calculations
+Version: 0.1.0
+Author: Benjamin M. Delory
+Maintainer: Benjamin M. Delory <b.m.m.delory@uu.nl>
+Description: This R package calculates the two parameters of the Tea Bag Index (decomposition rate and litter stabilisation factor) following the methodology described in Keuskamp JA, Dingemans BJJ, Lehtinen T, Sarneel JM, Hefting MM. 2013. Tea Bag Index: a novel approach to collect uniform decomposition data across ecosystems. Methods in ecology and evolution, 4: 1070–1075.
+License: GPL-3.0
+Encoding: UTF-8
+LazyData: true
